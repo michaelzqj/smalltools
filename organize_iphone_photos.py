@@ -2,9 +2,6 @@ import os
 import datetime
 import shutil
 import subprocess
-from PIL import Image
-
-Image.MAX_IMAGE_PIXELS = None
 
 count = {}
 
